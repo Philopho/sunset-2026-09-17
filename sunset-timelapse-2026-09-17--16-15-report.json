@@ -1,0 +1,19 @@
+{
+  "frames": 700,
+  "captured": 700,
+  "failedAttempts": 4,
+  "failedFrames": [
+    142,
+    230,
+    305,
+    495
+  ],
+  "retries": {
+    "142": 1,
+    "230": 1,
+    "305": 1,
+    "495": 1
+  },
+  "worstStreak": 1,
+  "aborted": false
+}
